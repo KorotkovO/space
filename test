@@ -2,5 +2,6 @@ public class Something {
 
 int s = 9;
 
+System.out.println(s);
 
 }
